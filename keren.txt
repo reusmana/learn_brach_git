@@ -1,4 +1,4 @@
 bikin fitur baru new
-menggunakan fitur baru
-  login
-  register
+menggunakna framework
+  laravel
+  react js
