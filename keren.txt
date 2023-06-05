@@ -1,1 +1,4 @@
 bikin fitur baru new
+menggunakna framework
+  laravel
+  react js
