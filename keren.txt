@@ -1,4 +1,4 @@
 bikin fitur baru new
 menggunakna framework
   laravel
-  react js
+  react js new
